@@ -65,7 +65,6 @@
     - User testing: 
         Conduct user testing to identify any usability issues and gather feedback from users. This can help identify areas for improvement in the app's user interface.
 
-
 # Design steps
 
 1. **Understand the user**: The first step to enhance the design of a healthcare interface is to understand the users who will be using it. This includes healthcare professionals, patients, caregivers, and other stakeholders. Conduct user research to identify their needs, goals, and pain points.
@@ -132,3 +131,10 @@ Evaluation is an essential part of the design process, as it helps designers to 
 5. A/B testing: A/B testing involves testing two different versions of the design with different user groups to see which performs better. This method can be useful for optimizing specific aspects of the design, such as the placement of buttons or the wording of text.
 
 5. Expert review: Expert review involves having an expert in the field evaluate the design for usability and effectiveness. This method can be useful for identifying potential issues early in the design process
+
+
+## Survey
+ 
+ - We used a survey as a method to carry out user research. Unfortunately, other user research methods (Focus Groups, Interviews, Usability Studies, etc.) are not possible to use in this project.
+ - Survey can be accessed from [here](https://docs.google.com/forms/d/e/1FAIpQLSdjt6DF0jb_zhggrCfy0Tm85hX3a_Japw-sa1wRbaF4-EEelA/viewform?usp=sf_link).
+>>>>>>> fd28f6870fcc89391843ffb444d76cfa5eca105a
