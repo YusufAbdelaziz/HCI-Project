@@ -138,35 +138,35 @@ Evaluation is an essential part of the design process, as it helps designers to 
  - We used a survey as a method to carry out user research. Unfortunately, other user research methods (Focus Groups, Interviews, Usability Studies, etc.) are not possible to use in this project.
  - Survey can be accessed from [here](https://docs.google.com/forms/d/e/1FAIpQLSdjt6DF0jb_zhggrCfy0Tm85hX3a_Japw-sa1wRbaF4-EEelA/viewform?usp=sf_link).
  
- ##Question
+ #Question
+ 1-QUALITATIVE :
  
- *1-QUALITATIVE:*
-1.DO you have any family member who visit the doctor frequency or have chronic diseases?
+  1.DO you have any family member who visit the doctor frequency or have chronic diseases?
 
-2.How do you usually book the appointment?
+  2.How do you usually book the appointment?
 
-3.when would you prefer for going online consultation?
+  3.when would you prefer for going online consultation?
 
-4.Have you ever booked healthcare products online?
+  4.Have you ever booked healthcare products online?
 
-5.Were you satisfied with the doctor you were allocated with?
+  5.Were you satisfied with the doctor you were allocated with?
 
-6. How likely are you to recommend us to your friends and family?
+  6. How likely are you to recommend us to your friends and family?
 
-7.Have you ever booked lab tests from home?
+  7.Have you ever booked lab tests from home?
 
-8.Would you rather order the medicines/healthcare products you got from your doctor automatically right after the consultation?
+  8.Would you rather order the medicines/healthcare products you got from your doctor automatically right after the consultation?
 
-9.Would you find online chat assistant useful?
+  9.Would you find online chat assistant useful?
 
-10.Would you prefer an app that contains a feature of booking lab test online?
+  10.Would you prefer an app that contains a feature of booking lab test online?
 
-11.Would you prefer purchasing medical/healthcare products described by the doctor automatically using an app or buying products yourself from offline pharmacies/stores? Why?
+  11.Would you prefer purchasing medical/healthcare products described by the doctor automatically using an app or buying products yourself from offline pharmacies/stores? Why?
 
-12.If you're going to use a medical app for booking consultation, purchasing medicine/healthcare products, or booking tests from labs, what would you like to see to make your own experience smooth?
-*2-Quantitative:*
-1.What do you rate for your use of other clinic applications?
+  12.If you're going to use a medical app for booking consultation, purchasing medicine/healthcare products, or booking tests from labs, what would you like to see to make your own experience smooth?
+ 2-Quantitative:
+  1.What do you rate for your use of other clinic applications?
 
-2. What do your rate from 1 :10 for online medical consultation?
+  2. What do your rate from 1 :10 for online medical consultation?
 
-3. On a scale of 1 to 10, How do you think clinic applications save time?
+  3. On a scale of 1 to 10, How do you think clinic applications save time?
