@@ -137,4 +137,3 @@ Evaluation is an essential part of the design process, as it helps designers to 
  
  - We used a survey as a method to carry out user research. Unfortunately, other user research methods (Focus Groups, Interviews, Usability Studies, etc.) are not possible to use in this project.
  - Survey can be accessed from [here](https://docs.google.com/forms/d/e/1FAIpQLSdjt6DF0jb_zhggrCfy0Tm85hX3a_Japw-sa1wRbaF4-EEelA/viewform?usp=sf_link).
->>>>>>> fd28f6870fcc89391843ffb444d76cfa5eca105a
