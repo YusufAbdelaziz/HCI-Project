@@ -167,8 +167,10 @@ Evaluation is an essential part of the design process, as it helps designers to 
   
 2-Quantitative :
 
-  1.What do you rate for your use of other clinic applications?
+ 1.What do you rate for your use of other clinic applications?
+ 
+ 2. What do your rate from 1 :10 for online medical consultation?
 
-  2. What do your rate from 1 :10 for online medical consultation?
+ 3. On a scale of 1 to 10, How do you think clinic applications save time?
 
-  3. On a scale of 1 to 10, How do you think clinic applications save time?
+
