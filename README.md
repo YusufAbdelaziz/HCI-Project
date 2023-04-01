@@ -139,7 +139,7 @@ Providers (professionals and institutions)
 Payers
 Policymakers
 
-## Primary:
+### Primary:
 Patients
 Doctors
 Nurses
@@ -147,7 +147,7 @@ Employees
 Employers
 Pharmaceutical firms
 Insurance companies
-## Secondry
+### Secondry
 Caregivers
 Parents
 Spouses
