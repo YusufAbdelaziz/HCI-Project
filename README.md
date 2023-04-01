@@ -1,10 +1,8 @@
-# HCI-Project
+# Medico App
 
-## MEDIC Doctor App
+- Medico application is a platform designed to improve the way doctors and patients interact with each other. The app provides a range of features that allow patients to easily book appointments, communicate with doctors, access medical records, and receive reminders. Doctors can use the app to manage patient appointments, send personalized messages to patients, and access patient records remotely
 
-- HCI MEDIC Doctor application is a platform designed to improve the way doctors and patients interact with each other. The app provides a range of features that allow patients to easily book appointments, communicate with doctors, access medical records, and receive reminders. Doctors can use the app to manage patient appointments, send personalized messages to patients, and access patient records remotely
-
-### Here are some ways in which this app can revolutionize healthcare
+## Here are some ways in which this app can revolutionize healthcare
 
     - Appointment booking: 
         Patients can use the app to book appointments with doctors and healthcare providers. They can select a preferred date and time for their appointment and receive a confirmation email or message once the appointment is scheduled.
@@ -21,7 +19,7 @@
     - Reminders: 
         Patients can receive reminders for upcoming appointments, medication refills, and other healthcare-related tasks through the app.
 
-## improve user experience
+## Improve User Experience
 
     - User-centered design: 
         Design the app with the needs and preferences of users in mind. This can be achieved by conducting user research, such as surveys and interviews, to better understand the needs of patients and healthcare providers.
@@ -44,7 +42,7 @@
     - Regular updates: 
         Regularly update the app to fix bugs, add new features, and improve the overall user experience.
 
-## improve user interface
+## Improve User Interface
 
     - Consistency: 
         Ensure that the app's design is consistent throughout, including font styles, colors, and layouts. This makes the app more visually appealing and easier to use.
@@ -66,3 +64,7 @@
 
     - User testing: 
         Conduct user testing to identify any usability issues and gather feedback from users. This can help identify areas for improvement in the app's user interface.
+ ## Survey
+ 
+ - We used a survey as a method to carry out user research. Unfortunately, other user research methods (Focus Groups, Interviews, Usability Studies, etc.) are not possible to use in this project.
+ - Survey can be accessed from [here](https://docs.google.com/forms/d/e/1FAIpQLSdjt6DF0jb_zhggrCfy0Tm85hX3a_Japw-sa1wRbaF4-EEelA/viewform?usp=sf_link).
