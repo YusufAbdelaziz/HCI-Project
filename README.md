@@ -133,13 +133,13 @@ Evaluation is an essential part of the design process, as it helps designers to 
 5. Expert review: Expert review involves having an expert in the field evaluate the design for usability and effectiveness. This method can be useful for identifying potential issues early in the design process
 
 ## Stakeholders
-# The four Ps healthcare stakeholders![image](https://user-images.githubusercontent.com/45799327/229312004-53418304-193f-414d-9ff6-d4a09a0109e4.png)
+The four Ps healthcare stakeholders:
 Patients
 Providers (professionals and institutions)
 Payers
 Policymakers
-![image](https://user-images.githubusercontent.com/45799327/229312007-acb6cd66-78f0-4061-8aad-368ff52fdef5.png)
-# Primary:
+
+## Primary:
 Patients
 Doctors
 Nurses
@@ -147,7 +147,7 @@ Employees
 Employers
 Pharmaceutical firms
 Insurance companies
-# Secondrt
+## Secondry
 Caregivers
 Parents
 Spouses
@@ -156,7 +156,6 @@ Children
 other family members
 Friends
 Counselors in schools
-![image](https://user-images.githubusercontent.com/45799327/229312036-578a24fa-b106-486d-bab5-1a9ceb251f51.png)
 
 ## Survey
  
