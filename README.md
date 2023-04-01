@@ -164,7 +164,9 @@ Evaluation is an essential part of the design process, as it helps designers to 
   11.Would you prefer purchasing medical/healthcare products described by the doctor automatically using an app or buying products yourself from offline pharmacies/stores? Why?
 
   12.If you're going to use a medical app for booking consultation, purchasing medicine/healthcare products, or booking tests from labs, what would you like to see to make your own experience smooth?
-2-Quantitative:
+  
+2-Quantitative :
+
   1.What do you rate for your use of other clinic applications?
 
   2. What do your rate from 1 :10 for online medical consultation?
