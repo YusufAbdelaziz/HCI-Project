@@ -2,7 +2,7 @@
 
 - Medico application is a platform designed to improve the way doctors and patients interact with each other. The app provides a range of features that allow patients to easily book appointments, communicate with doctors, access medical records, and receive reminders. Doctors can use the app to manage patient appointments, send personalized messages to patients, and access patient records remotely
 
-## Here are some ways in which this app can revolutionize healthcare
+### Here are some ways in which this app can revolutionize healthcare
 
     - Appointment booking: 
         Patients can use the app to book appointments with doctors and healthcare providers. They can select a preferred date and time for their appointment and receive a confirmation email or message once the appointment is scheduled.
@@ -19,7 +19,7 @@
     - Reminders: 
         Patients can receive reminders for upcoming appointments, medication refills, and other healthcare-related tasks through the app.
 
-## Improve User Experience
+### Improve User Experience
 
     - User-centered design: 
         Design the app with the needs and preferences of users in mind. This can be achieved by conducting user research, such as surveys and interviews, to better understand the needs of patients and healthcare providers.
@@ -42,7 +42,7 @@
     - Regular updates: 
         Regularly update the app to fix bugs, add new features, and improve the overall user experience.
 
-## Improve User Interface
+### Improve User Interface
 
     - Consistency: 
         Ensure that the app's design is consistent throughout, including font styles, colors, and layouts. This makes the app more visually appealing and easier to use.
@@ -65,7 +65,7 @@
     - User testing: 
         Conduct user testing to identify any usability issues and gather feedback from users. This can help identify areas for improvement in the app's user interface.
 
-# Design steps
+### Design steps
 
 1. **Understand the user**: The first step to enhance the design of a healthcare interface is to understand the users who will be using it. This includes healthcare professionals, patients, caregivers, and other stakeholders. Conduct user research to identify their needs, goals, and pain points.
 
@@ -82,7 +82,7 @@
 7. **Collaborate with healthcare professionals**: Collaborating with healthcare professionals can help ensure that the interface meets the needs of the healthcare industry. Involve healthcare professionals in the design process to gain valuable insights and feedback
 
 
-# User research
+### User research
 
 There are various types of user research that can be conducted depending on the goals of the research, the target audience, and the stage of the product development process. Here are some common types of user research:
 
@@ -101,7 +101,7 @@ There are various types of user research that can be conducted depending on the 
 7. Card Sorting: Card sorting involves asking users to organize a set of cards into categories to determine how they perceive and group information. This can provide insights into how users think and organize information
 
 
-# Prototype
+### Prototype
 
 There are many tools available for creating prototypes, ranging from simple tools that require no coding to complex tools that allow for advanced interactions and animations. Some popular prototype tools include:
 
@@ -116,7 +116,7 @@ There are many tools available for creating prototypes, ranging from simple tool
 5. Marvel: Marvel is a tool that allows designers to create interactive prototypes with advanced interactions and animations, and to collaborate with other team members.
 
 
-# Evaluation 
+### Evaluation 
 
 Evaluation is an essential part of the design process, as it helps designers to understand how well their designs meet the needs of their users and identify areas for improvement. There are many methods for evaluating designs, ranging from user testing to heuristic evaluation to analytics. Some common methods include:
 
