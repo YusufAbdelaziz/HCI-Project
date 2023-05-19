@@ -203,28 +203,42 @@ Counselors in schools
 
 1. **Problem**: Lack of easily accessible mental health support and resources.
    
-   **Solution**: Develop an AI-powered Mental Health Chatbot within the MEDIC Doctor App that utilizes natural language processing and machine learning to provide personalized mental health support, guidance, and resources to users, improving accessibility and availability of mental health assistance.
+   **Solution**: Develop an AI-powered Mental Health Chatbot within the medico App that utilizes natural language processing and machine learning to provide personalized mental health support, guidance, and resources to users, improving accessibility and availability of mental health assistance.
+
+   Placing the AI-powered Mental Health Chatbot as a **floating button** within any page of the Medico App can provide users with easy and quick access to mental health support. By having it available on every page, users can seek assistance from the chatbot without having to navigate to a specific section.
+
+<p align="center">
+  <img src="1.png" />
+</p>
+<br>   
 
 2. **Problem**: Limited monitoring capabilities for wound healing and infections.
   
-   **Solution**: Introduce a Smart Bandage connected to the MEDIC Doctor App that uses sensors to monitor wound healing progress, detects infections, and releases medication or alerts healthcare providers when intervention is needed, enabling more effective wound management and timely medical attention.
+   **Solution**: Introduce a Smart Bandage connected to the medico App that uses sensors to monitor wound healing progress, detects infections, and releases medication or alerts healthcare providers when intervention is needed, enabling more effective wound management and timely medical attention.
 
 3. **Problem**: Inefficient communication channels between doctors and patients.
    
-   **Solution**: Implement secure messaging and teleconsultation features within the MEDIC Doctor App, facilitating secure and convenient communication for non-urgent inquiries, follow-ups, or clarification of medical advice, improving doctor-patient interaction and reducing communication barriers.
+   **Solution**: Implement secure messaging and teleconsultation features within the medico Doctor App, facilitating secure and convenient communication for non-urgent inquiries, follow-ups, or clarification of medical advice, improving doctor-patient interaction and reducing communication barriers.
 
 4. **Problem**: Lack of accessible and reliable health education materials.
   
    **Solution**: Create a dedicated Health Education and Resource Center within the app, offering reliable health education materials, articles, and resources to empower patients with knowledge about common conditions, preventive care, and healthy living, promoting informed decision-making and self-care.
 
+   Within this dedicated section, you'll find a wealth of reliable health education materials, articles, and resources. Discover information about common conditions, preventive care, and healthy living. 
+
+<p align="center">
+  <img src="2.png" />
+</p>
+<br>   
+
 5. **Problem**: Language barriers hindering effective communication.
   
-   **Solution**: Incorporate multilingual support within the MEDIC Doctor App, allowing patients to select their preferred language for better accessibility and understanding, breaking down language barriers and ensuring effective communication between doctors and patients.
+   **Solution**: Incorporate multilingual support within the medico App, allowing patients to select their preferred language for better accessibility and understanding, breaking down language barriers and ensuring effective communication between doctors and patients.
 
-6. **Problem**: Inconvenience and uncertainty during telemedicine appointments.
-   
-   **Solution**: Introduce a Telemedicine Waiting Room feature that allows patients to check-in for their telemedicine appointments and receive updates on their estimated wait time, enhancing patient experience, reducing uncertainty, and improving appointment management.
+   patients can select their preferred language, providing better accessibility and understanding. No matter which language you speak, we want to make sure you can communicate with doctors seamlessly. 
 
-7. **Problem**: Lack of proactive health guidance and reminders.
-   
-   **Solution**: Implement a Health Tips and Alerts feature within the MEDIC Doctor App that sends proactive health tips, reminders, and alerts to patients based on their health conditions, encouraging healthy habits and timely follow-ups, promoting proactive healthcare management.
+   <p align="center">
+  <img src="3.png" />
+   </p>
+<br>  
+
