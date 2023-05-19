@@ -208,7 +208,7 @@ Counselors in schools
    Placing the AI-powered Mental Health Chatbot as a **floating button** within any page of the Medico App can provide users with easy and quick access to mental health support. By having it available on every page, users can seek assistance from the chatbot without having to navigate to a specific section.
 
 <p align="center">
-  <img src="1.png" />
+  <img src="1.jpg" />
 </p>
 <br>   
 
@@ -227,7 +227,7 @@ Counselors in schools
    Within this dedicated section, you'll find a wealth of reliable health education materials, articles, and resources. Discover information about common conditions, preventive care, and healthy living. 
 
 <p align="center">
-  <img src="2.png" />
+  <img src="2.jpg" />
 </p>
 <br>   
 
@@ -238,7 +238,7 @@ Counselors in schools
    patients can select their preferred language, providing better accessibility and understanding. No matter which language you speak, we want to make sure you can communicate with doctors seamlessly. 
 
    <p align="center">
-  <img src="3.png" />
+  <img src="3.jpg" />
    </p>
 <br>  
 
