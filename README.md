@@ -208,7 +208,7 @@ Counselors in schools
    Placing the AI-powered Mental Health Chatbot as a **floating button** within any page of the Medico App can provide users with easy and quick access to mental health support. By having it available on every page, users can seek assistance from the chatbot without having to navigate to a specific section.
 
 <p align="center">
-  <img src="1.jpg" />
+  <img src="1.jpg" width="50%" style="border-radius: 10px; margin: 20px; "/>
 </p>
 <br>   
 
@@ -231,7 +231,7 @@ Counselors in schools
    Within this dedicated section, you'll find a wealth of reliable health education materials, articles, and resources. Discover information about common conditions, preventive care, and healthy living. 
 
 <p align="center">
-  <img src="2.jpg" />
+  <img src="2.jpg" width="50%" style="border-radius: 10px; margin: 20px; " />
 </p>
 <br>   
 
@@ -242,7 +242,39 @@ Counselors in schools
    patients can select their preferred language, providing better accessibility and understanding. No matter which language you speak, we want to make sure you can communicate with doctors seamlessly. 
 
    <p align="center">
-  <img src="3.jpg" />
+  <img src="3.jpg" width="50%" style="border-radius: 10px; margin: 20px; "/>
    </p>
 <br>  
 
+
+# Muhammad Gmal's Prototype
+
+1.  **Problem**: Appointment booking
+   
+    **Solution**: Patients can use the app to book appointments with doctors and healthcare providers. They can select a preferred date and time for their appointment and receive a confirmation email or message once the appointment is scheduled.
+    Doctors can use the app to see the appointments available in this day.
+
+2.  **Problem**: Medical records: 
+    
+    **Solution**: The app provides patients with easy access to their medical records, including test results, prescriptions, and other medical information.Tips for patient and recommended analyses
+
+
+3.  **Problem**: Increased accessibility
+    
+    **Solution**: The app can make healthcare more accessible to patients, especially those who live in remote areas or have mobility issues. Patients can use the app to access healthcare services from anywhere, at any time. They can also consult with doctors who may not be available in their local area.
+
+
+<div style="display:block; ">
+    <h3 >Home page prototype</h3>
+    <img src='Home-page.jpg' width="40%" style="border-radius: 10px; margin: 20px; " >
+  <h3 >Sign-up page prototype</h3>
+    <img src='Signup.jpg' width="40%" style="border-radius: 10px; margin: 20px;" >
+    <img src='Signup-doctor.jpg' width="40%" style="border-radius: 10px; margin: 20px;" >  
+    <img src='Signup-patient.jpg' width="40%" style="border-radius: 10px; margin: 20px;" > 
+    <h3 >Booking page prototype</h3>
+    <img src='Book-for-patient.jpg' width="40%" style="border-radius: 10px; margin: 20px; " >
+    <h3 >Appointments page prototype</h3>
+    <img src='Appointments.jpg' width="40%" style="border-radius: 10px; margin: 20px; " >
+    <h3 >Records page prototype</h3>
+    <img src='Records-page.jpg' width="40%" style="border-radius: 10px; margin: 20px; " >
+</div>
