@@ -278,3 +278,104 @@ Counselors in schools
     <h3 >Records page prototype</h3>
     <img src='Records-page.jpg' width="40%" style="border-radius: 10px; margin: 20px; " >
 </div>
+
+# Omar Yehia's Prototype
+
+## Brainstorming Ideas
+
+1.  **Problem**: Medication Management Challenge 
+   
+    **Solution**: Some apps provide easy pill reminders and medication tracking in a day for you. The apps also record your pill consumption once you feed your prescription. There are reminders of times when your medicines are exhausted and it’s time to buy a new set as well. These apps also help the physicians to track the medication and make sure that the medicines are being taken without any adverse reaction on the patient
+
+2.  **Problem**: Quick Access to Medical Reports Challenge : 
+    
+    **Solution**: The application allows the patient to find the nearest laboratory and book an appointment and makes it easy for the patients to manage their health reports online. They can check the reports directly from the centers and the same can be shared with the doctors instantly. So, no more hassle picking up reports from centres or carrying them to hospitals personally.
+
+
+3.  **Problem**: Patient Tracking and Engagement Challenge 
+    
+    **Solution**: The doctor can constantly follow up on the patient's condition remotely by communicating using chat or video, which allows him to know the extent of the patient's improvement, and this leads to knowing the extent of the effectiveness of the treatment and also saving the patient's time for not going to the clinic.
+ 
+The doctor can constantly follow up on the patient's condition remotely by communicating using chat or video, which allows him to know the extent of the patient's improvement, and this leads to knowing the extent of the effectiveness of the treatment and also saving the patient's time for not going to the clinic.
+
+4.  **Problem**: Clinic reservation 
+   
+    **Solution**: the app provides the reservation service by selecting the specialization that the patient needs for examination, such as (dental, eyes, or Orthopedic ... etc.), and then the nearest clinic appears in the speciality chosen by the patient, the name of the doctor and his evaluation. It can also show higher doctors in the evaluation, then the patient chooses the appropriate date for him.
+    
+## Visual Prototype (Wireframe) 
+<div style="display:block; ">
+ <img src='omar_proto1.jpg' width="40%" style="border-radius: 10px; margin: 20px;"/>  
+<img src='omar_proto2.jpg' width="40%" style="border-radius: 10px; margin: 20px;"/> 
+</div>
+
+
+# Yusuf's Prototype
+
+## Brainstorming Ideas
+
+1. **Problem**: All doctors specializations are interleaved in a single page.
+
+    **Solution**: Add filtering feature and show the filter buttons horizontally so the user can directly click on                   the filtering option.
+
+2. **Problem**: User can't decide the correct specialization for the problem they have.
+
+    **Solution**: Create chat assisstant page that can help the user deciding the correct specialization.
+    
+3. **Problem**: Booking difficulties for old people.
+
+    **Solution**: Provide the easiest possible flow for senior citenzens.
+    
+4. **Problem**: User can't remember medication history with previous doctors.
+
+    **Solution**: Create a separate page for previous examinations which includes:
+        
+        - Each doctor name and specialzation.
+        - Previously descriped medicines by each doctor.
+        - Examination information collected by the patient (user) at that time.
+        
+5. **Problem**: User have examined in multiple doctrs which result in a lot of medicine to take. Users usually won't remember all these medicines.
+
+    **Solution**: Provide a separate page for listing the medicines as well as including the inventory of each medicine and the time to take it.
+    
+6. **Problem**: Doctors need assisstants to schudle the appointments and follow-up sessions with the patients.
+
+    **Solution**: Each assisstant can have a specified account type in which assisstants can select the doctor they're assisting and interact with patients for that doctor.
+    
+7. **Problem**: Facing problems while trying to reschedule the Appointment.
+
+    **Solution**: Need to provide the cancellation and reschedule the appointment which can be achieved by the user talking to the assisstant.
+    
+8. **Problem**: Users need tips specifically for their medical condition.
+
+    **Solution**: Use the medical record or visited doctors specializations to provide tips based on that.
+
+9. **Problem**: Some doctors will require lab tests.
+
+    **Solution**: Provide a flow for booking lab tests.
+
+10. **Problem**: Some medicines will conflict with other medicines that the patient has already taken.
+
+    **Solution**: Provide a chat feature in the medicines page so the patient can chat with a pharmacist.
+    
+11. **Problem**: Can't pay for appointment reservation because I don't have bank card.
+
+    **Solution**: Provide payment methods (Fawary, Aman, Vodafone Cash, Bank Card, etc.) for users.
+
+## Verbal Prototype
+
+- Home page will contain large four cards for doctors, lab tests, medicines, and records.
+- Filters are shown as buttons so user can quickly click on them and filtering process starts on the doctors page
+- Records page will contain the list of doctors previously visited, the prescriptions, and lab tests required by each doctor.
+- Sign in/up should include options for three type of users: Doctors, assisstants and patients.
+- Tips page will be at first general tips for health, and when the user starts using the app the tips are provided based on his records with doctors.
+- In medicine page, add a chatting feature so the pharmcist can ask and see the medication history of the patient.
+- Separate assisstance page for assisstant in which the assisstant can schudle appointments for the patients.
+- Medicines are filtered depending on its use on medicines page so we need to add filteration options.
+
+## Visual Prototype (Wireframe) 
+
+<div style="display:block; ">
+    <img src='joe_proto1.png' width="40%" style="border-radius: 10px; margin: 20px;"/>  
+    <img src='joe_proto2.png' width="40%" style="border-radius: 10px; margin: 20px;"/> 
+</div>
+
