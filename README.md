@@ -309,7 +309,7 @@ The doctor can constantly follow up on the patient's condition remotely by commu
 </div>
 
 
-# Yusuf's Prototype
+# Yusuf's & Abdo's Prototype
 
 ## Brainstorming Ideas
 
